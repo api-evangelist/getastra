@@ -64,5 +64,120 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Astra Pentest is a company surfaced via the API Evangelist harvest backlog (source: g2-catalog) and added to the network as a stub for full-pipeline profiling.
-- https://getastra.com/
+Astra Pentest provides an AI‑powered continuous penetration testing platform, offering PTaaS, DAST, API security scanning, and cloud vulnerability assessment. Their solutions scale with development velocity, covering web, mobile, API, cloud, and network applications across industries such as healthcare, SaaS, fintech, and insurance. The company emphasizes autonomous pentesting, detailed reporting, and integration capabilities for modern DevSecOps pipelines.
+
+**Areas:** Company · Security · PenetrationTesting · API · Cloud
+
+## Astra Pentest on APIs.io
+
+Everything profiled for Astra Pentest is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/getastra/](https://apis.io/providers/getastra/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Astra Pentest API](https://apis.io/apis/getastra/getastra-api/) — Astra Pentest API as documented publicly: 12 operations. Contract generated from the documentation by API Evangelist (2026-10-18); not the provider's own…
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### JSON Schema (2)
+
+The data models the API reads and writes.
+
+- [PostUsersRequest](https://apis.io/schemas/getastra/getastra-post-users-request/)
+- [PostUsersResponse](https://apis.io/schemas/getastra/getastra-post-users-response/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Getastra Context](https://apis.io/jsonld/getastra/getastra-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Astra Pentest API Rules](https://apis.io/rules/getastra/getastra-rules/)
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Getastra Authentication](https://apis.io/security/getastra/getastra-authentication/)
+- [Getastra Domain Security](https://apis.io/security/getastra/getastra-domain-security/)
+- [Getastra Vulnerability Disclosure](https://apis.io/security/getastra/getastra-vulnerability-disclosure/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Getastra Plans Pricing](https://apis.io/plans/getastra/getastra-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.getastra.com/)
+- [Documentation](https://help.getastra.com/)
+- [Getting started](https://help.getastra.com/articles/1929955147-integrate-slack-with-astra-s-orbitx)
+- [Pricing](https://www.getastra.com/pricing)
+- [Sign up](https://my.getastra.com/checkout)
+- [Support](https://help.getastra.com/en/)
+- [Blog](https://www.getastra.com/blog/)
+- [Terms of service](https://www.getastra.com/legal/terms)
+- [Privacy policy](https://www.getastra.com/privacy-policy)
+- [GitHub](https://github.com/getastra)
+- [Status](https://status.getastra.com/)
+
+## API Evangelist rating
+
+**Kin Score 56.3** — strong · rubric 0.24.0 · scored 2026-10-18
+
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 47.7 |
+| Contract governance | 79.1 |
+| Operational transparency | 31.6 |
+| Developer ergonomics | 40.5 |
+| Access clarity | 73.2 |
+
+**Agent readiness 24.0** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 30.4** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/getastra/](https://apis.io/providers/getastra/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Astra Pentest: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/getastra/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
